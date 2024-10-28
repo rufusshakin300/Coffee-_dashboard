@@ -15,7 +15,7 @@ This project showcases a sales dashboard I created using Excel. The dashboard an
 
 ### Dashboard Preview
 
-![Dashboard Preview](https://github.com/user-attachments/assets/d589282f-04a8-4a43-b79e-dd55f11f31d7))
+![Dashboard Preview](https://github.com/user-attachments/assets/d589282f-04a8-4a43-b79e-dd55f11f31d7)
 
 ### How to Use the Dashboard
 Download the Excel file and interact with the slicers to filter the data by year, country, and roast type.
